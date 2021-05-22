@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application45</string>
+    <string name="mob_no">Mob No:</string>
+    <string name="request_otp">Request OTP</string>
+    <string name="_00_60">00:60</string>
+
+    <string name="safety_net_api_key">AIzaSyAMi1…y4JfS8b1O0</string>
+    <string name="first_name">first name</string>
+    <string name="otp1">OTP</string>
+    <string name="button">Button</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="type_your_phone_number_and_login_to_security_os">Type Your Phone Number and login to security os</string>
+    <string name="security_os">SECURITY OS</string>
+    <string name="type_otp_here">TYPE OTP HERE</string>
+    <string name="type_your_otp">TYPE YOUR OTP</string>
+    <string name="request_otp1">REQUEST OTP</string>
+    <string name="verify_otp">VERIFY OTP</string>
+</resources>
